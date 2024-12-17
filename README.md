@@ -15,6 +15,9 @@ Objective:-
 
 To develop a secure and user-centric platform that integrates the power of advanced data visualization with robust user authentication, enabling users to explore and analyze data effortlessly.
 
+for check the dashboard checkout the link which given below:-
+https://app.powerbi.com/view?r=eyJrIjoiZjY1MjljZGMtMzU5MC00YTU3LThhYjAtZTJmOGUxY2NhNjNiIiwidCI6ImQ4MDI5Y2VmLTJhZTEtNDY5Ni1iYWIxLTI4NmU4ZWUxMjQ0ZCJ9
+
 Let me know if you need any modifications! 😊
 
 
